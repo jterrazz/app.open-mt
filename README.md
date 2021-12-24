@@ -7,3 +7,6 @@ Find out more about us on [our new MyOpenMarket blog](https://blog.myopen.market
 - [API](https://github.com/jterrazz/app.myopenmarket-api)
 - [Web client](https://github.com/jterrazz/app.myopenmarket-client)
 - [Landing page](https://github.com/jterrazz/deprecated-app.myopenmarket-landing)
+
+### Contact
+[Jean-Baptiste Terrazzoni](mailto:jterrazzoni@gmail.com)
