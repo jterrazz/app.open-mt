@@ -15,6 +15,9 @@
 - [Web client](https://github.com/jterrazz/app.myopenmarket-client)
 - [Landing page](https://github.com/jterrazz/deprecated-app.myopenmarket-landing)
 
+### Conventions
+- Commits: https://www.conventionalcommits.org/en/v1.0.0/
+
 ### Contact
 
 [@jterrazz](mailto:jterrazzoni@icloud.com)
